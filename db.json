@@ -3,34 +3,34 @@
     "id" : 1,	
     "preço" : 50,
     "descricao" : "yes",
-    "categoria" : "apartamento",
+    "categoria" : "apartamento"
   },
 
   {
     "id" : 2,
     "preço" : 50,
     "descricao" : "yes",
-    "categoria" : "apartamento",
+    "categoria" : "apartamento"
   },
 
   {
     "id" : 3,
     "preço" : 50,
     "descricao" : "yes",
-    "categoria" : "apartamento",
+    "categoria" : "apartamento"
   },
 
   {
     "id" : 4,
     "preço" : 50,
     "descricao" : "yes",
-    "categoria" : "apartamento",
+    "categoria" : "apartamento"
   },
 
   {
     "id" : 5,
     "preço" : 50,
     "descricao" : "yes",
-    "categoria" : "apartamento",
+    "categoria" : "apartamento"
   }
 ]
