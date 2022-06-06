@@ -4,10 +4,6 @@
     "preço" : 50,
     "descricao" : "yes",
     "categoria" : "apartamento",
-    "alugado" : false,
-    "imagem" : "assets/images/house1.jpg",
-    "index" : 1,
-    "owner" : "T"
   },
 
   {
@@ -15,10 +11,6 @@
     "preço" : 50,
     "descricao" : "yes",
     "categoria" : "apartamento",
-    "alugado" : false,
-    "imagem" : "assets/images/house1.jpg",
-    "index" : 1,
-    "owner" : "T"
   },
 
   {
@@ -26,10 +18,6 @@
     "preço" : 50,
     "descricao" : "yes",
     "categoria" : "apartamento",
-    "alugado" : false,
-    "imagem" : "assets/images/house1.jpg",
-    "index" : 1,
-    "owner" : "T"
   },
 
   {
@@ -37,10 +25,6 @@
     "preço" : 50,
     "descricao" : "yes",
     "categoria" : "apartamento",
-    "alugado" : false,
-    "imagem" : "assets/images/house1.jpg",
-    "index" : 1,
-    "owner" : "T"
   },
 
   {
@@ -48,10 +32,6 @@
     "preço" : 50,
     "descricao" : "yes",
     "categoria" : "apartamento",
-    "alugado" : false,
-    "imagem" : "assets/images/house1.jpg",
-    "index" : 1,
-    "owner" : "T"
   },
 
   {
@@ -59,10 +39,6 @@
     "preço" : 50,
     "descricao" : "yes",
     "categoria" : "apartamento",
-    "alugado" : false,
-    "imagem" : "assets/images/house1.jpg",
-    "index" : 1,
-    "owner" : "T"
   },
 
   {
@@ -70,21 +46,12 @@
     "preço" : 50,
     "descricao" : "yes",
     "categoria" : "apartamento",
-    "alugado" : false,
-    "imagem" : "assets/images/house1.jpg",
-    "index" : 1,
-    "owner" : "T"
-  },
 
   {
     "id" : 8,
     "preço" : 50,
     "descricao" : "yes",
     "categoria" : "apartamento",
-    "alugado" : false,
-    "imagem" : "assets/images/house1.jpg",
-    "index" : 1,
-    "owner" : "T"
   },
 
   {
@@ -92,10 +59,6 @@
     "preço" : 50,
     "descricao" : "yes",
     "categoria" : "apartamento",
-    "alugado" : false,
-    "imagem" : "assets/images/house1.jpg",
-    "index" : 1,
-    "owner" : "T"
   },
 
   {
@@ -103,9 +66,5 @@
     "preço" : 50,
     "descricao" : "yes",
     "categoria" : "apartamento",
-    "alugado" : false,
-    "imagem" : "assets/images/house1.jpg",
-    "index" : 1,
-    "owner" : "T"
   }
 ]
