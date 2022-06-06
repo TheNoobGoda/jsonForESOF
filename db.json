@@ -32,39 +32,5 @@
     "preço" : 50,
     "descricao" : "yes",
     "categoria" : "apartamento",
-  },
-
-  {
-    "id" : 6,
-    "preço" : 50,
-    "descricao" : "yes",
-    "categoria" : "apartamento",
-  },
-
-  {
-    "id" : 7,
-    "preço" : 50,
-    "descricao" : "yes",
-    "categoria" : "apartamento",
-
-  {
-    "id" : 8,
-    "preço" : 50,
-    "descricao" : "yes",
-    "categoria" : "apartamento",
-  },
-
-  {
-    "id" : 9,
-    "preço" : 50,
-    "descricao" : "yes",
-    "categoria" : "apartamento",
-  },
-
-  {
-    "id" : 10,
-    "preço" : 50,
-    "descricao" : "yes",
-    "categoria" : "apartamento",
   }
 ]
