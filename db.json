@@ -1,0 +1,111 @@
+[
+  {
+    "id" : 1,	
+    "preço" : 50,
+    "descricao" : "yes",
+    "categoria" : "apartamento",
+    "alugado" : false,
+    "imagem" : "assets/images/house1.jpg",
+    "index" : 1,
+    "owner" : "T"
+  },
+
+  {
+    "id" : 2,
+    "preço" : 50,
+    "descricao" : "yes",
+    "categoria" : "apartamento",
+    "alugado" : false,
+    "imagem" : "assets/images/house1.jpg",
+    "index" : 1,
+    "owner" : "T"
+  },
+
+  {
+    "id" : 3,
+    "preço" : 50,
+    "descricao" : "yes",
+    "categoria" : "apartamento",
+    "alugado" : false,
+    "imagem" : "assets/images/house1.jpg",
+    "index" : 1,
+    "owner" : "T"
+  },
+
+  {
+    "id" : 4,
+    "preço" : 50,
+    "descricao" : "yes",
+    "categoria" : "apartamento",
+    "alugado" : false,
+    "imagem" : "assets/images/house1.jpg",
+    "index" : 1,
+    "owner" : "T"
+  },
+
+  {
+    "id" : 5,
+    "preço" : 50,
+    "descricao" : "yes",
+    "categoria" : "apartamento",
+    "alugado" : false,
+    "imagem" : "assets/images/house1.jpg",
+    "index" : 1,
+    "owner" : "T"
+  },
+
+  {
+    "id" : 6,
+    "preço" : 50,
+    "descricao" : "yes",
+    "categoria" : "apartamento",
+    "alugado" : false,
+    "imagem" : "assets/images/house1.jpg",
+    "index" : 1,
+    "owner" : "T"
+  },
+
+  {
+    "id" : 7,
+    "preço" : 50,
+    "descricao" : "yes",
+    "categoria" : "apartamento",
+    "alugado" : false,
+    "imagem" : "assets/images/house1.jpg",
+    "index" : 1,
+    "owner" : "T"
+  },
+
+  {
+    "id" : 8,
+    "preço" : 50,
+    "descricao" : "yes",
+    "categoria" : "apartamento",
+    "alugado" : false,
+    "imagem" : "assets/images/house1.jpg",
+    "index" : 1,
+    "owner" : "T"
+  },
+
+  {
+    "id" : 9,
+    "preço" : 50,
+    "descricao" : "yes",
+    "categoria" : "apartamento",
+    "alugado" : false,
+    "imagem" : "assets/images/house1.jpg",
+    "index" : 1,
+    "owner" : "T"
+  },
+
+  {
+    "id" : 10,
+    "preço" : 50,
+    "descricao" : "yes",
+    "categoria" : "apartamento",
+    "alugado" : false,
+    "imagem" : "assets/images/house1.jpg",
+    "index" : 1,
+    "owner" : "T"
+  }
+]
